@@ -1,6 +1,6 @@
+
 from abc import ABC, abstractmethod
 from spatialmath import SE3
-
 
 class BaseFrame(ABC):
 

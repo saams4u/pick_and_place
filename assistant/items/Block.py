@@ -1,6 +1,9 @@
+
+import sys
+sys.path.append("..")
+
 from assistant.items.BaseItem import BaseItem
 from spatialmath import SE3
-
 
 class Block(BaseItem):
 
